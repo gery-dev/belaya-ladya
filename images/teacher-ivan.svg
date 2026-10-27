@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="t"><title id="t">Иван В., тренер</title>
+<rect width="400" height="400" fill="#3d7a5a"/>
+<circle cx="200" cy="200" r="190" fill="#fff" opacity=".12"/>
+
+<path d="M60 400c0-82 60-122 140-122s140 40 140 122z" fill="#2d3a4a"/>
+<path d="M165 278l35 40 35-40" fill="none" stroke="#e0a526" stroke-width="8" stroke-linejoin="round"/>
+<rect x="178" y="236" width="44" height="52" rx="14" fill="#e8b78f"/>
+<ellipse cx="200" cy="180" rx="68" ry="78" fill="#e8b78f"/>
+<path d="M134 168c-2-52 26-84 68-84 44 0 70 32 64 84-12-22-24-30-66-30s-52 8-66 30z" fill="#4b3422"/>
+<circle cx="174" cy="186" r="5.5" fill="#14213d"/><circle cx="226" cy="186" r="5.5" fill="#14213d"/>
+<path d="M176 220c14 14 34 14 48 0" fill="none" stroke="#14213d" stroke-width="5" stroke-linecap="round"/>
+<g fill="none" stroke="#14213d" stroke-width="4"><circle cx="174" cy="186" r="19"/><circle cx="226" cy="186" r="19"/><path d="M193 186h14"/></g><path d="M150 226c10 30 30 40 50 40s40-10 50-40c-14 14-30 20-50 20s-36-6-50-20z" fill="#5e4631" opacity=".85"/>
+<g transform="translate(318,372) scale(.62)" opacity=".95"><g fill="#f6efe2" stroke="#14213d" stroke-width="2.2" stroke-linejoin="round">
+<path d="M-26 -10c0-26 10-36 20-50-12 2-22 8-30 18l-8-9c9-22 26-38 48-42l3-9 8 10c20 8 30 30 28 82z"/>
+<rect x="-32" y="-22" width="64" height="12" rx="4"/></g><circle cx="6" cy="-80" r="2.8" fill="#14213d"/></g>
+</svg>
