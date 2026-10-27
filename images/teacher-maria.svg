@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="t"><title id="t">Мария С., тренер</title>
+<rect width="400" height="400" fill="#9a3b5b"/>
+<circle cx="200" cy="200" r="190" fill="#fff" opacity=".12"/>
+<path d="M122 190c-10-80 30-126 80-126s92 46 78 126c0 40 10 70 28 96H94c20-26 30-56 28-96z" fill="#5b2a1a"/>
+<path d="M60 400c0-82 60-122 140-122s140 40 140 122z" fill="#2a1f3d"/>
+<path d="M165 278l35 40 35-40" fill="none" stroke="#e0a526" stroke-width="8" stroke-linejoin="round"/>
+<rect x="178" y="236" width="44" height="52" rx="14" fill="#f6d3b8"/>
+<ellipse cx="200" cy="180" rx="68" ry="78" fill="#f6d3b8"/>
+<path d="M132 178c-8-62 28-98 70-98s80 36 66 98c-10-22-26-40-66-40s-58 18-70 40z" fill="#5b2a1a"/>
+<circle cx="174" cy="186" r="5.5" fill="#14213d"/><circle cx="226" cy="186" r="5.5" fill="#14213d"/>
+<path d="M176 220c14 14 34 14 48 0" fill="none" stroke="#14213d" stroke-width="5" stroke-linecap="round"/>
+
+<g transform="translate(318,372) scale(.62)" opacity=".95"><g fill="#f6efe2" stroke="#14213d" stroke-width="2.2" stroke-linejoin="round">
+<path d="M-3 -122h6v8h8v6h-8v8h-6v-8h-8v-6h8z"/><path d="M-16 -98c0-6 7-9 16-9s16 3 16 9c0 6-6 9-10 12l4 8h-20l4-8c-4-3-10-6-10-12z"/>
+<path d="M-14 -78h28l6 50h-40z"/><rect x="-28" y="-30" width="56" height="8" rx="3"/><rect x="-34" y="-22" width="68" height="12" rx="4"/></g></g>
+</svg>

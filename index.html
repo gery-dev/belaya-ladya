@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Учебный шахматный клуб «Белая ладья» — Санкт-Петербург</title>
+    <link rel="icon" type="image/svg+xml" href="images/logo.svg">
     <meta name="description" content="Запишитесь на бесплатное пробное занятие в шахматный клуб «Белая ладья» в СПб. Обучение детей 6–12 лет и взрослых с нуля. Опытные тренеры, турниры, удобное расположение.">
     <meta name="keywords" content="шахматы спб, шахматный клуб для детей, обучение шахматам, белая ладья спб, шахматы для начинающих">
     
@@ -307,14 +308,10 @@
             width: 100%;
             max-width: 500px;
             aspect-ratio: 16/9;
-            background: linear-gradient(135deg, #d35400, #e67e22);
+            height: auto;
+            object-fit: cover;
             border-radius: var(--radius);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #fff;
-            font-size: 1.5rem;
-            font-weight: 600;
+            display: block;
         }
         .hero-meta {
             position: absolute;
@@ -377,14 +374,9 @@
             width: 120px;
             height: 120px;
             border-radius: 50%;
-            background: linear-gradient(135deg, #004aad, #0066cc);
+            object-fit: cover;
             margin: 0 auto 1rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #fff;
-            font-weight: 700;
-            font-size: 2rem;
+            display: block;
         }
 
         .schedule {
@@ -433,13 +425,9 @@
         .location-map {
             width: 100%;
             height: 300px;
-            background: linear-gradient(135deg, #2c3e50, #34495e);
+            object-fit: cover;
             border-radius: var(--radius);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #fff;
-            font-size: 1.2rem;
+            display: block;
             margin-bottom: 2rem;
         }
 
@@ -595,7 +583,7 @@
             <p>Учебный клуб «Белая ладья» для детей 6–12 лет и взрослых. От первых ходов до турнирных побед. Первое занятие — бесплатно.</p>
             <div class="hero-cta">
                 <a href="#form" class="btn">Записаться на бесплатное занятие</a>
-                <div class="hero-image">Фото счастливых учеников</div>
+                <img class="hero-image" src="images/hero.svg" alt="Шахматная доска с фигурами" width="900" height="640">
             </div>
         </div>
         <div class="hero-meta">
@@ -669,17 +657,17 @@
     <h2 style="text-align:center; margin-bottom:2rem; font-size: clamp(28px, 5vw, 40px);">Наши преподаватели</h2>
     <div class="grid grid-3">
         <div>
-            <div class="teacher-photo">АК</div>
+            <img class="teacher-photo" src="images/teacher-alexey.svg" alt="Алексей К., тренер" width="400" height="400">
             <h3>Алексей К.</h3>
             <p>КМС, стаж 12 лет. Специализация — дошкольники.</p>
         </div>
         <div>
-            <div class="teacher-photo">МС</div>
+            <img class="teacher-photo" src="images/teacher-maria.svg" alt="Мария С., тренер" width="400" height="400">
             <h3>Мария С.</h3>
             <p>ФИДЕ Мастер, женский рейтинг 2100+. Подготовка к турнирам.</p>
         </div>
         <div>
-            <div class="teacher-photo">ИВ</div>
+            <img class="teacher-photo" src="images/teacher-ivan.svg" alt="Иван В., тренер" width="400" height="400">
             <h3>Иван В.</h3>
             <p>КМС, стаж 8 лет. Взрослые группы, дебютная теория.</p>
         </div>
@@ -712,12 +700,12 @@
 <section id="contacts" class="location section container">
     <h2 style="text-align:center; margin-bottom:2rem; font-size: clamp(28px, 5vw, 40px);">Где мы находимся</h2>
     <div class="grid location-grid">
-        <div class="location-map">[Интерактивная карта / Скриншот Яндекс.Карт]</div>
+        <img class="location-map" src="images/map.svg" alt="Схема проезда: клуб «Белая ладья», Большая Конюшенная, 15" width="800" height="500">
         <div>
             <p><strong>Адрес:</strong> Санкт-Петербург, ул. Большая Конюшенная, д. 15, 3 этаж</p>
             <p><strong>Телефон:</strong> <a href="tel:+78125550123">+7 (812) 555-01-23</a></p>
             <p><strong>Email:</strong> <a href="mailto:info@belaya-ladya-spb.ru">info@belaya-ladya-spb.ru</a></p>
-            <img src="https://via.placeholder.com/400x300.png/2c3e50/ffffff?text=Фото+входа+в+клуб" alt="Вход в шахматный клуб" style="width:100%; border-radius: var(--radius); margin-top: 1rem;">
+            <img src="images/entrance.svg" alt="Вход в шахматный клуб «Белая ладья» вечером" width="800" height="600" style="width:100%; height:auto; object-fit:cover; border-radius: var(--radius); margin-top: 1rem;">
         </div>
     </div>
 </section>
